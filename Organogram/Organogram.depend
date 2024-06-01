@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1717090299 source:c:\users\angelopapaya\documents\c++\organogram\program.cpp
+	"OrganogramLinesProviderFromFile.h"
+	<fstream>
+	<vector>
+	<iostream>
+	<array>
+	<string>
+	<sstream>
+
+1717079146 c:\users\angelopapaya\documents\c++\organogram\organogramlinesproviderfromfile.h
+	<string>
+	<vector>
+
+1717090293 source:c:\users\angelopapaya\documents\c++\organogram\organogramlinesproviderfromfile.cpp
+	"OrganogramLinesProviderFromFile.h"
+	<fstream>
+	<vector>
+	<iostream>
+	<array>
+	<string>
+	<sstream>
+

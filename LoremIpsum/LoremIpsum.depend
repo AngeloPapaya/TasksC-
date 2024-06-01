@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1566463566 source:c:\users\angelopapaya\documents\c++\loremipsum\printer.cpp
+	"Printer.h"
+	<iostream>
+	<iterator>
+
+1414575604 c:\users\angelopapaya\documents\c++\loremipsum\printer.h
+	<string>
+	<vector>
+
+1414575548 source:c:\users\angelopapaya\documents\c++\loremipsum\program.cpp
+	"LoremIpsumLinesProviderFromFile.h"
+	"RandomWordsGenerator.h"
+	"LoremIpsumSearcher.h"
+	"Printer.h"
+
+1414575220 c:\users\angelopapaya\documents\c++\loremipsum\loremipsumlinesproviderfromfile.h
+	<string>
+	<vector>
+
+1414576346 c:\users\angelopapaya\documents\c++\loremipsum\randomwordsgenerator.h
+	<string>
+	<vector>
+
+1414575154 c:\users\angelopapaya\documents\c++\loremipsum\loremipsumsearcher.h
+	<vector>
+	<string>
+
+1414576836 source:c:\users\angelopapaya\documents\c++\loremipsum\randomwordsgenerator.cpp
+	"RandomWordsGenerator.h"
+	<cstdlib>
+	<ctime>
+	<sstream>
+
+1414575548 source:c:\users\angelopapaya\documents\c++\loremipsum\loremipsumsearcher.cpp
+	"LoremIpsumSearcher.h"
+	<sstream>
+	<unordered_set>
+
+1414575224 source:c:\users\angelopapaya\documents\c++\loremipsum\loremipsumlinesproviderfromfile.cpp
+	"LoremIpsumLinesProviderFromFile.h"
+	<fstream>
+	<exception>
+	<chrono>
+	<thread>
+
